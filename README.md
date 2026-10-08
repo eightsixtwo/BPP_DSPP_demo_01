@@ -6,6 +6,6 @@
  
 ## My Projects
  
-![histogram](/images/histogram.png)
+![histogram](/images/File_Black_cherry_tree_histogram.svg)
  
 [Link to GDPR](https://gdpr-info.eu/)
